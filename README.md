@@ -1,4 +1,4 @@
-# E-commerce Product QA Bot
+# Nutrient Recipe Recommendation QA Bot
 
 This project demonstrates a **Retrieve and Generate (RAG)** based question-answering system for nutrient recipe recommendation using **LangChain**, **FAISS**, and **DeepSeek -r1**.
 
